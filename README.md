@@ -12,13 +12,13 @@ Genesis: https://github.com/EOS-Jungle-Testnet/Node-Manual-Installation/blob/mas
 - Manual Installation: https://github.com/EOS-Jungle-Testnet/Node-Manual-Installation
 
 
-Full History nodes (filter-on = *)
-http://junglehistory.cryptolions.io:18888 
-https://junglehistory.cryptolions.io:443 
-
-Mongo History:
-http://junglehistory.cryptolions.io
-https://junglehistory.cryptolions.io:4433/	
+Full History nodes (filter-on = *)  
+http://junglehistory.cryptolions.io:18888   
+https://junglehistory.cryptolions.io:443  
+  
+Mongo History:  
+http://junglehistory.cryptolions.io  
+https://junglehistory.cryptolions.io:4433/	  
 
 
 GIT: https://github.com/EOS-Jungle-Testnet
