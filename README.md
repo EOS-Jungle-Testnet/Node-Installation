@@ -13,7 +13,7 @@ Genesis: https://github.com/EOS-Jungle-Testnet/Node-Manual-Installation/blob/mas
 
 
 
-Full History nodes (filter-on = *)  
+Light History nodes (filter-on = *)  
 http://junglehistory.cryptolions.io:18888   
 https://junglehistory.cryptolions.io:443  
   
