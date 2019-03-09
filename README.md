@@ -24,8 +24,10 @@ https://junglehistory.cryptolions.io:4433/
 **Hyperion History**  
 https://jungle.eosrio.io/v2/history  
 
-**State History endpoint**
-ws://jungle.eosdac.io:8080
+**State History endpoint**  
+ws://jungle.eosdac.io:8080  
+
+
 ---------------  
 GIT: https://github.com/EOS-Jungle-Testnet
 
