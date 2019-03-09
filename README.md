@@ -24,7 +24,8 @@ https://junglehistory.cryptolions.io:4433/
 **Hyperion History**  
 https://jungle.eosrio.io/v2/history  
 
-GIT: https://github.com/EOS-Jungle-Testnet
 
+---------------  
+GIT: https://github.com/EOS-Jungle-Testnet
 
 by Cryptolions.io
