@@ -29,6 +29,16 @@ ws://jungle.eosdac.io:8080
 
 
 ---------------  
+
+# Backups
+## Full(blocks and states):
+  * [Ubuntu 18](http://backup.jungletestnet.io/ubuntu18/)  
+  * [Ubuntu 16](http://backup.jungletestnet.io/ubuntu16/)
+## Snapshot:
+  * [Snapshots](http://backup.jungletestnet.io/snapshots/)
+
+----------------
+
 GIT: https://github.com/EOS-Jungle-Testnet
 
 by Cryptolions.io
