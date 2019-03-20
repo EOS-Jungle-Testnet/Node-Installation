@@ -22,7 +22,7 @@ http://junglehistory.cryptolions.io
 https://junglehistory.cryptolions.io:4433/	  
 
 **Hyperion History**  
-https://jungle.eosrio.io/v2/history  
+https://jungle.hyperion.eosrio.io/v2/docs/index.html  
 
 **State History endpoint**  
 ws://jungle.eosdac.io:8080  
