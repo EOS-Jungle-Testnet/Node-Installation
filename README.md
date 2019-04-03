@@ -16,6 +16,7 @@ Genesis: https://github.com/EOS-Jungle-Testnet/Node-Manual-Installation/blob/mas
 **Light History nodes**  
 http://junglehistory.cryptolions.io:18888   
 https://junglehistory.cryptolions.io:443  
+https://jungle.eosmetal.io:443
   
 **Mongo History:**  
 http://junglehistory.cryptolions.io  
